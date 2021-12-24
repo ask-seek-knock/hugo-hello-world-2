@@ -1,0 +1,24 @@
+{
+    "name": "Hugo hello world",
+    "description": "Deploy Hugo to Heroku.",
+    "keywords": [
+        "Hugo"
+    ],
+    "env": {
+        "REMOTE_ADDR": {
+            "value": "example.com"
+        },
+        "REMOTE_PORT": {
+            "value": "80"
+        },
+        "HUGO_PASSWORD": {
+            "value": "gFy4657822+~"
+        },
+        "WEBSOCKET_PATH": {
+            "value": "/ticktok-google-tmall-paypal"
+        }
+    },
+    "website": "https://gohugo.io/",
+    "repository": "https://github.com/gohugoio/hugo/",
+    "stack": "container"
+}
